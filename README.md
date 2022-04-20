@@ -13,7 +13,7 @@ formulae knowledge a more efficient alternative.
 This program aims to make the calculation of the interest rate of a deposit or monthly payment 
 of a home loan quick and easy regardless of your knowledge on the topic.
 
-####Instructions
+#### Instructions
 
 1. To use the program run command promt.
 2. Navigate to the folder with the file.
@@ -21,6 +21,6 @@ of a home loan quick and easy regardless of your knowledge on the topic.
 4. The program should now run.
 
 
-####Contact Information
+#### Contact Information
 
 If you have more questions about the program feel free to contact me at arramband@gmail.com.
